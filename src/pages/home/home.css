@@ -1,0 +1,31 @@
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  margin-top: 20px;
+  border-bottom: 1px solid gray;
+}
+main > input {
+  width: 20%;
+  height: 35px;
+  border-radius: 20px;
+  padding-left: 20px;
+  border: 1px solid gray;
+}
+
+.main__katalog {
+  width: 50%;
+  justify-content: space-between;
+  display: flex;
+  color: var(--text-color);
+}
+
+.dark-input {
+  background-color: var(--dark-input-background);
+  color: #fff;
+}
+
+.light-input {
+  background-color: var(--light-input-background);
+  color: #333;
+}
