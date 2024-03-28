@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testMega1/static/css/main.84b56197.css",
-    "main.js": "/testMega1/static/js/main.7271659b.js",
+    "main.css": "/testMega1/static/css/main.20d6310e.css",
+    "main.js": "/testMega1/static/js/main.fe60553c.js",
     "static/media/logo.png": "/testMega1/static/media/logo.22b8dffef14d50ca33ea.png",
     "static/media/kookol black.svg": "/testMega1/static/media/kookol black.95c29cac674b0cf10120285c94f68d1d.svg",
     "static/media/moon.svg": "/testMega1/static/media/moon.23145302a75d28c96f56399a55ff616b.svg",
@@ -9,11 +9,11 @@
     "static/media/moon yellow.svg": "/testMega1/static/media/moon yellow.92e0da0c5032bdcea4bcc9c802326a20.svg",
     "static/media/strelka.svg": "/testMega1/static/media/strelka.1a6f92cc90c42fb40829bd2c5add085b.svg",
     "index.html": "/testMega1/index.html",
-    "main.84b56197.css.map": "/testMega1/static/css/main.84b56197.css.map",
-    "main.7271659b.js.map": "/testMega1/static/js/main.7271659b.js.map"
+    "main.20d6310e.css.map": "/testMega1/static/css/main.20d6310e.css.map",
+    "main.fe60553c.js.map": "/testMega1/static/js/main.fe60553c.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b56197.css",
-    "static/js/main.7271659b.js"
+    "static/css/main.20d6310e.css",
+    "static/js/main.fe60553c.js"
   ]
 }
